@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Project - Search Movies
 
 Deploy Page (https://avichez.github.io/react-movies-search/)
 
